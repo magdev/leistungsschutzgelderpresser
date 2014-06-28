@@ -9,6 +9,7 @@ This is a simple blacklist of german websites who are claiming money from search
 ### German
 
 [Leistungsschutzrecht für Presseverlage](http://de.wikipedia.org/wiki/Leistungsschutzrecht_f%C3%BCr_Presseverleger) *(Wikipedia)*
+
 [VG Media reicht Klage gegen Google ein](http://www.spiegel.de/netzwelt/netzpolitik/leistungsschutzrecht-vg-media-reicht-klage-gegen-google-ein-a-975953.html) *(Spiegel Online)*
 
 
